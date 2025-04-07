@@ -1,10 +1,10 @@
 ## Olá! Me chamo Matheus Martins, e sou estudante de programação e tecnologia.
 
 <a href="https://github.com/matheusc-25/github-readme-stats">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusc-25&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusc-25&theme=dark" />
 </a>
 <a href="https://github.com/matheusc-25/convoychat">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusc-25&layout=compact&langs_count=16&card_width=320&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusc-25&layout=compact&langs_count=16&card_width=320&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>
