@@ -1,4 +1,4 @@
-## Olá! Me chamo Matheus Martins, e sou estudante de programação e tecnologia.
+## Olá! Me chamo Matheus, e sou estudante de programação e tecnologia.
 
 <a href="https://github.com/matheusc-25/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusc-25&theme=dark" />
